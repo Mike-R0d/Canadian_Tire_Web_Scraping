@@ -1,2 +1,2 @@
-# Canadian_Tire_Web_Scraping
-Este codigo permite extraer precios de mercado, asi como las contidades disponibles de los productos por cada una de las tiendas
+# Canadian_tire_selenium
+This code allows to extract of market prices of different products and stores, as well as the available quantities of the products, the codes of the products, as well as the web pages with the characteristics of the products.
