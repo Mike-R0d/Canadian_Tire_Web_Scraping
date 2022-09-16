@@ -4,4 +4,4 @@
 
 2. Objective of the project, based on the aforementioned business rule, the objective of the project is the massive comparison of prices between several stores to find price differences and estimate how much the maximum commercial discount would amount to for each store.
 
-3. Project description, for this, a simple selenium script was developed, which allows extracting the prices of the different products and stores in the market, as well as the available quantities of the products, the product codes, as well as the web pages with their characteristics. . products
+3. Project description, for this, a simple selenium script was developed, which allows extracting the prices of the different products and stores in the market, as well as the available quantities of the products, the product codes, as well as the web pages with their characteristics.
